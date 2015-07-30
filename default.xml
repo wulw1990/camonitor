@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+<!--debug flag -->
+<DebugFlag>1</DebugFlag>
+
+<!--camera id -->
+<CameraID>0</CameraID>
+
+<!--path to save data -->
+<OutputPath>"/media/wlw/data/camera_data/"</OutputPath>
+
+<!--capture data from camera every IntervalMS ms -->
+<IntervalMS>500</IntervalMS>
+
+<!--max storage space: MaxGB gb -->
+<MaxGB>50.0</MaxGB>
+
+<!--downscale rate when save data -->
+<DownScaleRate>1.0</DownScaleRate>
+
+<!--show video or not ? 0==no, other==yes -->
+<ShowVideo>0</ShowVideo>
+
+</opencv_storage>
