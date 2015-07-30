@@ -7,12 +7,14 @@ Camera Monitor : check whether exist motion in camera, if exist, save the frame 
 -------------------
 
 opencv
+
 g++
 
 What is CameraMonitor class?
 -------------------
 
 First, this class is provided with xml file, 
+
 then watch the camera, save motion frame.
 
 
@@ -20,6 +22,7 @@ then watch the camera, save motion frame.
 ---------------------------
 
 ubuntu 14.04
+
 other linux 
 
 # License
