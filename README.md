@@ -17,6 +17,10 @@ First, this class is provided with xml file,
 
 then watch the camera, save motion frame.
 
+What is image2video?
+-------------------
+
+convert from images to video
 
 # Execution environment
 ---------------------------
